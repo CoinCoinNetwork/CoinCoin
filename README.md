@@ -1,4 +1,0 @@
-CoinCoin
-========
-
-CoinCoin Soure
